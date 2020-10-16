@@ -1,4 +1,4 @@
-package com.company.hackemi.box2d;
+package hackemi.box2d;
 
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.*;

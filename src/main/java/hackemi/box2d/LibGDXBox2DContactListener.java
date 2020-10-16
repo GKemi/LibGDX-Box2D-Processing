@@ -1,4 +1,4 @@
-package com.company.hackemi.box2d;
+package hackemi.box2d;
 
 import com.badlogic.gdx.physics.box2d.Contact;
 import com.badlogic.gdx.physics.box2d.ContactImpulse;

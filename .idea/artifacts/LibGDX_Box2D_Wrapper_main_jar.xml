@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LibGDX_Box2D_Wrapper.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibGDX_Box2D_Wrapper_main_jar</output-path>
+    <root id="archive" name="LibGDX_Box2D_Wrapper.main.jar">
+      <element id="module-output" name="LibGDX_Box2D_Wrapper.main" />
+    </root>
+  </artifact>
+</component>
